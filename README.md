@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aadityamaheshwari&label=Profile%20views&color=brightgreen&style=flat" alt="aadityamaheshwari" /> </p>
 
-- I’m currently learning [Go](https://go.dev/) & [Deno](https://github.com/denoland/deno).
+- I’m currently learning [Go](https://go.dev/) & [Rust](https://www.rust-lang.org/).
 
 <hr />
 <h3 align="center"> Code is everything. Code is everywhere. :milky_way: - :older_man: </h3>
